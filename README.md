@@ -1,4 +1,4 @@
-# dataquest-projects
+# Dataquest Projects
 Repository of guided projects from Dataquest
 
 ## Projects
